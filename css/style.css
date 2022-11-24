@@ -10,6 +10,7 @@ input, textarea{
 
 .box{
     width: 414px;
+    border: 1px solid rgb(186, 202, 189);
 }
 
 .topic{
